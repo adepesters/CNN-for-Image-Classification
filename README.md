@@ -1,0 +1,1 @@
+In this project I classify images from the CIFAR-10 dataset (10 classes of vehicles and animals) using a convolutional neural network (CNN) implemented with Tensorflow. An accuracy of 67% is achieved.
